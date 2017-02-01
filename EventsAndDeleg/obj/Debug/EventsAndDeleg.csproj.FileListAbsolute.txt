@@ -7,3 +7,6 @@ C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\o
 C:\Users\Shiva.Marimallaiah\Documents\Events-and-Delegates\EventsAndDeleg\bin\Debug\EventsAndDeleg.exe.config
 C:\Users\Shiva.Marimallaiah\Documents\Events-and-Delegates\EventsAndDeleg\obj\Debug\EventsAndDeleg.exe
 C:\Users\Shiva.Marimallaiah\Documents\Events-and-Delegates\EventsAndDeleg\obj\Debug\EventsAndDeleg.pdb
+C:\Users\Shiva.Marimallaiah\Documents\TopicEveDel\EventsAndDeleg\bin\Debug\EventsAndDeleg.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\TopicEveDel\EventsAndDeleg\obj\Debug\EventsAndDeleg.exe
+C:\Users\Shiva.Marimallaiah\Documents\TopicEveDel\EventsAndDeleg\obj\Debug\EventsAndDeleg.pdb

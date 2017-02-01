@@ -16,7 +16,6 @@ namespace EventsAndDelegates
         }
         public string Checking(int xCoordinates, int yCoordinates)
         {
-
             Console.WriteLine("Enter the start of the x coordinate of the Canvas!: ");
             int Point1 = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Enter the end of the x coordinate of the Canvas!: ");
@@ -33,8 +32,6 @@ namespace EventsAndDelegates
             else
                 return "false";
         }
-
-
 
         public class Point
         {
@@ -59,7 +56,6 @@ namespace EventsAndDelegates
                 if (Solution == "true")
                 {
                     Console.WriteLine("x-coordinate={0} cms and y-coordinates={1} cms.:", xCoordinates, yCoordinates);
-
                 }
                 else
                     Console.WriteLine("Wrong Input!");
